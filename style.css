@@ -1,0 +1,60 @@
+body
+{
+    background-color: aliceblue;
+}
+
+h1
+{
+    font-family: monospace;
+    font-style: normal;
+    font-weight: lighter;
+}
+
+h4
+{
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+#camera
+{
+    width: 500px;
+    height: 400px;
+    border-radius: 100px;
+}
+
+#copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100px;
+    text-align: center;
+}
+
+img1.avif
+{
+width: 30px;
+border-radius: 180px;
+padding: 25px;
+box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);    
+}
+
+img2.avif
+{
+width: 30px;
+border-radius: 180px;
+padding: 25px;
+box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);    
+}
+
+img3.jpg
+{
+width: 30px;
+border-radius: 180px;
+padding: 25px;
+box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);    
+}
+
+img:hover{
+    border-radius: 140px;
+}
